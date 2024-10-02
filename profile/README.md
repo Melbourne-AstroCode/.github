@@ -1,3 +1,3 @@
 # Melbourne-AstroCode
 
-Welcome to the UniMelb GW group software organisation
+Welcome to the research software hub of the UniMelb GW group.
